@@ -29,8 +29,8 @@
 (define (average x y)
     (/ (+ x y) 2))
 
-(define (delta x y)
-  (abs (- x y)))
-
 (define (improve guess x)
     (average guess (/ x guess)))
+
+(define (delta x y)
+  (abs (- x y)))

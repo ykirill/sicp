@@ -9,5 +9,6 @@
 5. [Упражнение 1.5](exercise-1.5/index.md)
 6. [Упражнение 1.6](exercise-1.6/index.md)
 7. [Упражнение 1.7](exercise-1.7/index.md)
+8. [Упражнение 1.8](exercise-1.8/index.md)
 
 [Оглавление](../../../../README.md)
