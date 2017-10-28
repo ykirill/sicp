@@ -87,4 +87,5 @@
    (+ a 1)
 ; 16
 ```
+[Code](../../../../../src/exercices/ch-1/e-1.1/solution.rkt) |
 [К списку упражнений](../index.md)

@@ -21,4 +21,5 @@
           ((and (> x y) (> z y)) (sum-of-squares x z))
           (else (sum-of-squares y z))))
 ```
+[Code](../../../../../src/exercices/ch-1/e-1.3/solution.rkt) |
 [К списку упражнений](../index.md)
